@@ -1,5 +1,4 @@
-# 作品名称：MTVM and FlexCPA:RISC-V架构下的大模型推理加速算法和架构
-## 竞赛题目：RISC-V架构下大模型推理加速技术
+MTVM and FlexCPA:RISC-V架构下的大模型推理加速算法和架构
 
 # 目录
 - [引言](## 引言)
